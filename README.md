@@ -21,7 +21,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
   [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/zh-CN/)
   [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
 - ⚙️ &nbsp;
