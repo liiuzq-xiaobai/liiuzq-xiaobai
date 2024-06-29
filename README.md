@@ -21,16 +21,3 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 <br/>
 
-# Work Experience
-<!-- 树状结构 -->
-@@ -19,3 +30,19 @@
-  - **Document Intelligence**
-  - **Text-to-SQL**
-  - **Retrieval-augmented generation**
-
-<a href="https://github.com/liiuzq-xiaobai">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liiuzq-xiaobai&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liiuzq-xiaobai&theme=buefy&layout=compact" />
-</a>
-
-<br/>
