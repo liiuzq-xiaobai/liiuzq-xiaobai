@@ -1,11 +1,8 @@
 ### Hi there I'm Lzq!👋 
 
-<a href="https://github.com/liiuzq-xiaobai">
-  <img src="https://github-readme-stats.vercel.app/api?username=liiuzq-xiaobai&show_icons=true" alt="liiuzq-xiaobai's GitHub Stats" />
-</a>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying BigData Technology and Engineer at BUPT.
 - 🌱 &nbsp; Learning more about Cloud-Native Architecture, Storage Systems Design and Artificial Intelligence.
 
@@ -20,4 +17,11 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 <br/>
+
+<a href="https://github.com/liiuzq-xiaobai">
+  <img src="https://github-readme-stats.vercel.app/api?username=liiuzq-xiaobai&show_icons=true" alt="liiuzq-xiaobai's GitHub Stats" />
+</a>
+
+# LEETCODE Rank ![](https://leetcode-badge.haozibi.dev/v1cn/ranking/Royalvice.svg)  ![](https://leetcode-badge.haozibi.dev/v1cn/solved/Royalvice.svg) ![](https://leetcode-badge.haozibi.dev/v1cn/accepted-rate/Royalvice.svg)![](https://stats.justsong.cn/api/leetcode?username=Royalvice&cn=true&theme=dark)
+![](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/Royalvice.svg)
 
