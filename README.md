@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there I'm Lzq!👋 
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
 
-## I'm **LZQ**
+<a href="https://github.com/liiuzq-xiaobai">
+  <img src="https://github-readme-stats.vercel.app/api?username=liiuzq-xiaobai&show_icons=true" alt="liiuzq-xiaobai's GitHub Stats" />
+</a>
 
-<img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="55%">
-
-# Research Interests
+# Work Experience
 <!-- 树状结构 -->
 - **Big Data**
-  - **Data lake acceleration**
-  - **AI storage infrastructure/AI storage acceleration**
-  - **Cloud-Native**
+  - **Stream Computing Engine(Flink)**
+  - **Message Oriented Middleware(RocketMQ)**
+  - **AI Storage Infrastructure/AI Storage Acceleration(Alluxio,Fluid,JuiceFS)**
+  - **Cloud-Native Storage**
+# Research Interests
 - **Large language models**
-  - **Document intelligence**
+  - **Document Intelligence**
   - **Text-to-SQL**
   - **Retrieval-augmented generation**
